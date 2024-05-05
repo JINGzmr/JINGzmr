@@ -1,12 +1,21 @@
- <div align="center">
+<div style="text-align: right;">
   <!-- knock code pictures 敲代码的图片 -->
   <center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
   </center>
+</div>
+
+
+###  👋 Hi, I’m JING</p>
+- 👀 I’m interested Linux/OS</p>
+- 🌱 I’m currently learning C++/Go/OS</p>
+- 🔭 I’m  working on Xiyou Linux group</p>
+- 📫 You can touch me by zmrjing@gmail.com
+
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
