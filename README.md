@@ -11,8 +11,8 @@
 
 
 ###  👋 Hi, I’m JING</p>
-- 👀 I’m interested Linux/OS</p>
-- 🌱 I’m currently learning C++/Go/OS</p>
+- 👀 I’m interested Linux</p>
+- 🌱 I’m currently learning C++/OS</p>
 - 🔭 I’m  working on Xiyou Linux group</p>
 - 📫 You can touch me by zmrjing@gmail.com
 
