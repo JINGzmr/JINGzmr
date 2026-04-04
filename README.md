@@ -16,15 +16,14 @@
 - 🔭 I’m  working on Xiyou Linux group</p>
 - 📫 You can touch me by zmrjing@gmail.com
 
+<!-- 👇 下面整段贪吃蛇代码贡献图已被注释 -->
 <!--
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JINGzmr/JINGzmr/raw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/JINGzmr/JINGzmr/raw/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/JINGzmr/JINGzmr/raw/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 -->
-
 
   <!-- 数据统计 -->
 <tr><td>
