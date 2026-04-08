@@ -12,8 +12,8 @@
 
 ###  👋 Hi, I’m JING</p>
 - 👀 I’m interested Linux</p>
-- 🌱 I’m currently learning Go</p>
-- 🔭 I’m  working on Xiyou Linux group</p>
+- 🌱 I’m currently learning Go/MQ</p>
+- 🔭 I’m working on Xiyou Linux group</p>
 - 📫 You can touch me by zmrjing@gmail.com
 
 <!-- 👇 下面整段贪吃蛇代码贡献图已被注释 -->
